@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/sambo/Documents/GitHub/MLflow/mlruns/668949803168389087/61aa8c64b6694373a2d8f51b4cddb9d5/artifacts
+end_time: 1670339001232
+entry_point_name: ''
+experiment_id: '668949803168389087'
+lifecycle_stage: active
+run_id: 61aa8c64b6694373a2d8f51b4cddb9d5
+run_name: delightful-worm-802
+run_uuid: 61aa8c64b6694373a2d8f51b4cddb9d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1670338987909
+status: 3
+tags: []
+user_id: sambo
